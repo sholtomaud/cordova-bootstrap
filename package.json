@@ -3,7 +3,7 @@
     "private": true,
     "dependencies": {
         "fastclick": "0.6.11",
-        "debug": "0.7.4"
+        "debug": "2.6.9"
     },
     "devDependencies": {
         "browserify": "3.30.1",
